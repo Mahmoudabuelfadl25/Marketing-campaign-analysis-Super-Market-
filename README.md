@@ -14,7 +14,7 @@ Dashboard online link: https://public.tableau.com/app/profile/mahmoud.abu.elfadl
 Our recent marketing campaigns have provided us with a wealth of data, offering valuable insights into customer responses and behaviors. This data, segmented by character personas, allows us to tailor our strategies effectively to resonate with different customer profiles. Furthermore, an examination of the distribution of orders by countries gives us a geographical perspective of our market penetration. This information is crucial in identifying potential areas for expansion or improvement. By leveraging these insights, we aim to refine our marketing strategies, enhance customer engagement, and drive growth. This dashboard serves as a comprehensive tool for understanding and visualizing these key metrics and insights.
 
 
-# Object 
+# Objective
 
 
 The objective of this data analysis project is to leverage the capabilities of Excel and Tableau to gain meaningful insights from the global supermarket data. The project will begin with data preparation and processing using Excel, where we will clean, organize, and analyze the raw data to ensure its quality and relevance. This stage will involve handling missing values, outliers, and inconsistencies, as well as performing exploratory data analysis to understand the underlying patterns and trends.
